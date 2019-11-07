@@ -1,0 +1,25 @@
+Requerimientos
+
+Correos empresariales
+
+Catalogo de productos
+	Carrusel con novedades
+	Con filtros y buscador
+	Poder descargar imagenes o PDF en cada producto
+
+Mantenimientos
+	Usuarios
+	Productos
+	carrusel
+	categorias
+	
+
+2 roles, administrador
+	empleado
+
+Home
+	Carrusel con novedades
+
+Informacion de la empresa
+	Misions, vision
+
